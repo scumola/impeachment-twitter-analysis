@@ -5,6 +5,7 @@ democrat
 document
 elizabeth warren
 evidence
+giuliani
 gop
 guilt
 hearing
@@ -32,3 +33,4 @@ ukraine
 whistle-blower
 white house
 witness
+zelensky
